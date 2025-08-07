@@ -38,14 +38,22 @@ I love exploring how systems work under the hood, building real-world apps, and 
 </p>
 
 ## 📌 Featured Projects
-- **PitchPro (Figma,NextJs,n8n,supabase)**
+- **PitchPro (Figma, Next.js, n8n, Supabase)**
 - **UML Editor (Java FXML)**
 - **Skill Swap (MERN)**
 - **E-DOC System (Java, SQL, HTML/CSS/JS)**
 - **Sustainable Lifestyle Assistant (Figma, HTML/CSS/JS)**
-- **WASA BILLING System (C++,SFML)**
+- **WASA BILLING System (C++, SFML)**
+- **NLP Projects using Flask**: Sentiment Analysis, News Classification, Fake News Detection, Resume Screening with UI and ML models (TF-IDF, SVM, LR, NN)
 ---
-
+## 🎓 Certifications
+- CSS and JavaScript Crash Course — *Udemy*
+- Introduction to Prompt Engineering for Generative AI — *LinkedIn Learning*
+- Flutter Crash Course — *Udemy*
+- Python Programming Mastery — *Udemy*
+- Mastering AI Agents — *Udemy*
+- Elements of AI — *MinnaLearn*
+---
 ## 📚 Volunteering & Leadership
 
 - Head PR Team — ACM FAST Chapter 💼  
